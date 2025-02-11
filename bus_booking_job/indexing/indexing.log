@@ -1,0 +1,29 @@
+Started by user [8mha:////4HtlrQhV/jP9POT29lTJSVm4FNlvIbZiX/9XmIsvIRETAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9gozEvMy8xLyUzPTEXAA9FNJEyAAAAA==[0mPhani Nandigam
+[Sun Jan 05 04:45:33 UTC 2025] Starting branch indexing...
+ > git --version # timeout=10
+ > git --version # 'git version 2.43.0'
+ > git ls-remote --symref -- https://github.com/phaninandigam/bus_booking.git # timeout=10
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/caches/git-775ff4284af9dde862f2c5c0a33621b5/.git # timeout=10
+Setting origin to https://github.com/phaninandigam/bus_booking.git
+ > git config remote.origin.url https://github.com/phaninandigam/bus_booking.git # timeout=10
+Fetching & pruning origin...
+Listing remote references...
+ > git config --get remote.origin.url # timeout=10
+ > git --version # timeout=10
+ > git --version # 'git version 2.43.0'
+ > git ls-remote -h -- https://github.com/phaninandigam/bus_booking.git # timeout=10
+Fetching upstream changes from origin
+ > git config --get remote.origin.url # timeout=10
+ > git fetch --tags --force --progress --prune -- origin +refs/heads/*:refs/remotes/origin/* # timeout=10
+Checking branches...
+  Checking branch main
+      ‘Jenkinsfile’ not found
+    Does not meet criteria
+  Checking branch feature-1
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: feature-1 (d3035f3ad4ccc9cafbb559039443f1e60c79dc54 → ffa003184c64eab9f5c67f842751b849ac115adc)
+Scheduled build for branch: feature-1
+Processed 2 branches
+[Sun Jan 05 04:45:36 UTC 2025] Finished branch indexing. Indexing took 2.7 sec
+Finished: SUCCESS

@@ -1,0 +1,9 @@
+commit b3a878b4594ddf42ce5c665d6be4a284e5d4e903
+tree b2a5f7a95bc0136f76b216fa6ff97879dc9d8670
+parent 0e6b3886ee1a82e0d9c219ae3a5087d9a2836c81
+author phaninandigam <phaniraghavendra.namdigam@gmail.com> 2025-01-05 12:09:45 +0530
+committer GitHub <noreply@github.com> 2025-01-05 12:09:45 +0530
+
+    Rename pipeline.groovy to Pipeline.groovy
+
+:100644 100644 082cbca058fda636f0e65e4818b8443fbbc67813 082cbca058fda636f0e65e4818b8443fbbc67813 R100	vars/pipeline.groovy	vars/Pipeline.groovy

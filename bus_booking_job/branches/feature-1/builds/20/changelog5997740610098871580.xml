@@ -1,0 +1,9 @@
+commit 04f7ee2e4a83a7a0980541d580e2f458df98da48
+tree ab7afa670cbd92ac85d7ee791231bd485d61e542
+parent 337f98430df2929cb6194ce9dde6ee3e1518f1a2
+author phaninandigam <phaniraghavendra.namdigam@gmail.com> 2025-01-05 12:07:01 +0530
+committer GitHub <noreply@github.com> 2025-01-05 12:07:01 +0530
+
+    Create pipeline.groovy
+
+:000000 100644 0000000000000000000000000000000000000000 89ddaf7656183d722f05373923c3d2051e30b614 A	vars/pipeline.groovy

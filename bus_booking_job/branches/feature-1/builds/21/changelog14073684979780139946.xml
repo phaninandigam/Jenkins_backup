@@ -1,0 +1,9 @@
+commit 0e6b3886ee1a82e0d9c219ae3a5087d9a2836c81
+tree ccc210491775bb5f9b37e3555a0ebb5474f102cd
+parent 04f7ee2e4a83a7a0980541d580e2f458df98da48
+author phaninandigam <phaniraghavendra.namdigam@gmail.com> 2025-01-05 12:08:24 +0530
+committer GitHub <noreply@github.com> 2025-01-05 12:08:24 +0530
+
+    Update pipeline.groovy
+
+:100644 100644 89ddaf7656183d722f05373923c3d2051e30b614 082cbca058fda636f0e65e4818b8443fbbc67813 M	vars/pipeline.groovy
