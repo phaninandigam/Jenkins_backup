@@ -1,0 +1,34 @@
+Started by user [8mha:////4HtlrQhV/jP9POT29lTJSVm4FNlvIbZiX/9XmIsvIRETAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9gozEvMy8xLyUzPTEXAA9FNJEyAAAAA==[0mPhani Nandigam
+[Sat Jan 04 16:04:18 UTC 2025] Starting branch indexing...
+ > git --version # timeout=10
+ > git --version # 'git version 2.43.0'
+ > git ls-remote --symref -- https://github.com/phaninandigam/Parcel-service.git # timeout=10
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/caches/git-29e015eb2f2dae06728d57f5149971c4/.git # timeout=10
+Setting origin to https://github.com/phaninandigam/Parcel-service.git
+ > git config remote.origin.url https://github.com/phaninandigam/Parcel-service.git # timeout=10
+Fetching & pruning origin...
+Listing remote references...
+ > git config --get remote.origin.url # timeout=10
+ > git --version # timeout=10
+ > git --version # 'git version 2.43.0'
+ > git ls-remote -h -- https://github.com/phaninandigam/Parcel-service.git # timeout=10
+Fetching upstream changes from origin
+ > git config --get remote.origin.url # timeout=10
+ > git fetch --tags --force --progress --prune -- origin +refs/heads/*:refs/remotes/origin/* # timeout=10
+Checking branches...
+  Checking branch feature-2
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: feature-2 (901d4082e0ecd05f9aa93d0a2798d918c5928770 → 01d1e5c2d814e36106e2c22f5ffb1365f5018817)
+Scheduled build for branch: feature-2
+  Checking branch main
+      ‘Jenkinsfile’ not found
+    Does not meet criteria
+  Checking branch feature-1
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: feature-1 (7e0e081e536c0e65cd0d8b14a457421f7ed38269 → b332e1ada946c2589501b7a27326ba5f8a1c92f7)
+Scheduled build for branch: feature-1
+Processed 3 branches
+[Sat Jan 04 16:04:20 UTC 2025] Finished branch indexing. Indexing took 1.9 sec
+Finished: SUCCESS
