@@ -1,0 +1,46 @@
+Started at Sat Jan 04 13:39:23 UTC 2025
+Checking Assignment_2_Jan_hello_world
+Deleting /var/lib/jenkins/workspace/Assignment_2_Jan_hello_world on Jenkins
+Deleting /opt/jenkins_slave/workspace/Assignment_2_Jan_hello_world on slave1
+Deleting /opt/jenkins-slave2/workspace/Assignment_2_Jan_hello_world on slave2
+Checking bus_booking
+Deleting /var/lib/jenkins/workspace/bus_booking_job on Jenkins
+Deleting /opt/jenkins_slave/workspace/bus_booking_job on slave1
+Deleting /opt/jenkins-slave2/workspace/bus_booking_job on slave2
+Checking Parcel_Service_Job
+Deleting /var/lib/jenkins/workspace/Parcel_Service_Job on Jenkins
+Deleting /opt/jenkins_slave/workspace/Parcel_Service_Job on slave1
+Deleting /opt/jenkins-slave2/workspace/Parcel_Service_Job on slave2
+Checking petclinic
+Deleting /var/lib/jenkins/workspace/Pet_clinic_Job on Jenkins
+Deleting /opt/jenkins_slave/workspace/Pet_clinic_Job on slave1
+Deleting /opt/jenkins-slave2/workspace/Pet_clinic_Job on slave2
+Checking Testing Master_slave1
+Deleting /var/lib/jenkins/workspace/Testing Master_slave1 on Jenkins
+Deleting /opt/jenkins_slave/workspace/Testing Master_slave1 on slave1
+Deleting /opt/jenkins-slave2/workspace/Testing Master_slave1 on slave2
+Checking Testing_MasterSlave
+Deleting /var/lib/jenkins/workspace/Testing_MasterSlave on Jenkins
+Deleting /opt/jenkins_slave/workspace/Testing_MasterSlave on slave1
+Deleting /opt/jenkins-slave2/workspace/Testing_MasterSlave on slave2
+Checking petclinic » feature-1
+Deleting /var/lib/jenkins/workspace/Pet_clinic_Job_feature-1 on Jenkins
+Deleting /opt/jenkins_slave/workspace/Pet_clinic_Job_feature-1 on slave1
+Deleting /opt/jenkins-slave2/workspace/Pet_clinic_Job_feature-1 on slave2
+Checking petclinic » feature-2
+Deleting /var/lib/jenkins/workspace/Pet_clinic_Job_feature-2 on Jenkins
+Deleting /opt/jenkins_slave/workspace/Pet_clinic_Job_feature-2 on slave1
+Deleting /opt/jenkins-slave2/workspace/Pet_clinic_Job_feature-2 on slave2
+Checking Parcel_Service_Job » feature-1
+Deleting /var/lib/jenkins/workspace/Parcel_Service_Job_feature-1 on Jenkins
+Deleting /opt/jenkins_slave/workspace/Parcel_Service_Job_feature-1 on slave1
+Deleting /opt/jenkins-slave2/workspace/Parcel_Service_Job_feature-1 on slave2
+Checking Parcel_Service_Job » feature-2
+Deleting /var/lib/jenkins/workspace/Parcel_Service_Job_feature-2 on Jenkins
+Deleting /opt/jenkins_slave/workspace/Parcel_Service_Job_feature-2 on slave1
+Deleting /opt/jenkins-slave2/workspace/Parcel_Service_Job_feature-2 on slave2
+Checking bus_booking » feature-1
+Deleting /var/lib/jenkins/workspace/bus_booking_job_feature-1 on Jenkins
+Deleting /opt/jenkins_slave/workspace/bus_booking_job_feature-1 on slave1
+Deleting /opt/jenkins-slave2/workspace/bus_booking_job_feature-1 on slave2
+Finished at Sat Jan 04 13:39:24 UTC 2025. 1162ms
