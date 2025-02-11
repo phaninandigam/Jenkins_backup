@@ -1,0 +1,34 @@
+Started by user [8mha:////4HtlrQhV/jP9POT29lTJSVm4FNlvIbZiX/9XmIsvIRETAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9gozEvMy8xLyUzPTEXAA9FNJEyAAAAA==[0mPhani Nandigam
+[Sat Jan 04 16:08:41 UTC 2025] Starting branch indexing...
+ > git --version # timeout=10
+ > git --version # 'git version 2.43.0'
+ > git ls-remote --symref -- https://github.com/phaninandigam/petclinic.git # timeout=10
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/caches/git-105b03418cf0f6025b93d05fb1df531c/.git # timeout=10
+Setting origin to https://github.com/phaninandigam/petclinic.git
+ > git config remote.origin.url https://github.com/phaninandigam/petclinic.git # timeout=10
+Fetching & pruning origin...
+Listing remote references...
+ > git config --get remote.origin.url # timeout=10
+ > git --version # timeout=10
+ > git --version # 'git version 2.43.0'
+ > git ls-remote -h -- https://github.com/phaninandigam/petclinic.git # timeout=10
+Fetching upstream changes from origin
+ > git config --get remote.origin.url # timeout=10
+ > git fetch --tags --force --progress --prune -- origin +refs/heads/*:refs/remotes/origin/* # timeout=10
+Checking branches...
+  Checking branch feature-2
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: feature-2 (175c6877c3909b17fb2d467efe5bd26c43e23f07 → 4439eb887ac63ccfed2c862550d9836682adfb5e)
+Scheduled build for branch: feature-2
+  Checking branch main
+      ‘Jenkinsfile’ not found
+    Does not meet criteria
+  Checking branch feature-1
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: feature-1 (86ee12516a88f22417ee55cf2d7acd2526768533 → 4858e83467780c3d4e675a34352c299571432aed)
+Scheduled build for branch: feature-1
+Processed 3 branches
+[Sat Jan 04 16:08:43 UTC 2025] Finished branch indexing. Indexing took 1.9 sec
+Finished: SUCCESS
