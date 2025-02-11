@@ -1,0 +1,359 @@
+Started by user [8mha:////4HtlrQhV/jP9POT29lTJSVm4FNlvIbZiX/9XmIsvIRETAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9gozEvMy8xLyUzPTEXAA9FNJEyAAAAA==[0mPhani Nandigam
+Obtained Jenkinsfile from git https://github.com/phaninandigam/hello-world-war.git
+[8mha:////4A70jFd/70a7fZLccN00ut86yBDDZW7RH+RUF98nLRxrAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4IzDsV+MbYixdk+YvA2ML5N+gL/Nd/ZOU7NN/rreeH4KAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4OytMznD7jep/sOr6C4BRJtI8JzBdYDt2GcX3b0pkbfCAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgZB/eT83ILSktQi/eKcxLJUQ30AXbxxvsYAAAA=[0mslave1 in /opt/jenkins_slave/workspace/Test_SonarQube
+[8mha:////4B7GZtcZizc5KZHatDRO7eMjf9P+YS1Rm/PhLKdd64fmAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4Ety3Q+hR3Pq/5LcEiEZVno/BcKoZ4Sal8kighzcvh8BAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4NPmOci2uq3R1FfFjw0Ko43GkigwJsviw+bG+VIOZ5kIAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Declarative: Checkout SCM)
+[8mha:////4KShNl7oSyLCuQcoX6vUahYTuJX3f9r0aislABO84De5AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] checkout
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Avoid second fetch
+Checking out Revision c4f08f10aae5313f5f873c2e2d76b0f3abde9dd5 (refs/remotes/origin/master)
+Commit message: "Update pom.xml"
+First time build. Skipping changelog.
+[8mha:////4KxFMPdRvxE6UsEcYPCe3reHeSX90umwdf8Nnjk+KgmEAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4AJ+5mRqueDdfeFGWz9HSWzVJb+jbxxajRjmroPPQy4KAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4NRZUDiwWercyLZORIXl7AqsIFcn2r6CJUNZCNBi6v7cAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] withEnv
+[8mha:////4FqsouOQYhO2YjUud6Fg+RjsXMhlp82UM+pw7/Kv/cD6AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] {
+Cloning repository https://github.com/phaninandigam/hello-world-war.git
+ > git init /opt/jenkins_slave/workspace/Test_SonarQube # timeout=10
+Fetching upstream changes from https://github.com/phaninandigam/hello-world-war.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.43.0'
+ > git fetch --tags --force --progress -- https://github.com/phaninandigam/hello-world-war.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/phaninandigam/hello-world-war.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f c4f08f10aae5313f5f873c2e2d76b0f3abde9dd5 # timeout=10
+[8mha:////4HWrDJv7IQKniqR9mw9j+3Qf1q+D96hcUestVvMaPnuAAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUZUVMrFEWThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbqhjgRMEwp7GzGFvLej+aObFMobt5yszRlbWEkbxmQmdBSp/XKihpWFWUsOGw1dh6ihZNgh138iFrL9HUlxTm7cihtGqAJxR8JicZ0rdMAfb3UUXCH+cvAKY+Qdk0ix2WZ/UBbwyqm8IAAAA=[0m[Pipeline] withCredentials
+Masking supported pattern matches of $SONAR_TOKEN
+[8mha:////4BaK4lUXpC/mKGLeFzhS08REFORO9utiSohsR7SKx68hAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLdfrbD/Cw+y7kUycIAAAA=[0m[Pipeline] {
+[8mha:////4JmHob3y+4YLwyjN+F+4OXNJE5IcPWOEmhI2r8sJzyymAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUCDbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxAbNWnxXCAAAA[0m[Pipeline] stage
+[8mha:////4JdJzoNAqsy2G+oJxRGEuSOuJM0cE+1zU+By+JCM2mlqAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUSDAhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD5WQ+PfCAAAA[0m[Pipeline] { (checkout)
+[8mha:////4NT49kUvbUvYA2pBSrIfmkjZuApzlRcJ+hmB2m2lprzmAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCmgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN7LjSKW+AAAA[0m[Pipeline] sh
++ rm -rf hello-world-war
+[8mha:////4PrC7hbks2Ew03yR8PJu6DbcVwwR98Nxyssg5jVQdvI3AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCkSBqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDhnK7+9Q+vAHz0lO8vgAAAA==[0m[Pipeline] sh
++ git clone https://github.com/AkshathaMR/hello-world-war/
+Cloning into 'hello-world-war'...
+[8mha:////4Lex9GM7yqOdO0/BxYCfYk80yJCwtOyWZbU1b5ursHZRAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCiQkRJXWcsMLTGyME+vO2A5JxYv4Gn8gEImKLVY728zzBcsU4cjRYmuoc5Qah8H3dlo4cOwungds+YwNU2JvUJpBsjb1jJKzgTlFCQsBK0ON5+TIZliLVt1V5RXZ6pTj9B0ElE7f4AGFmMxZxfyFMcLm2uvE9PP8FcAYQoZyu//U7g1b0dOKvgAAAA==[0m[Pipeline] }
+[8mha:////4ESKYtzbHxgL00suvyEEMohw9sT8Vfv2/vc29xdrPgURAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiJBqEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQFoMog2vgAAAA==[0m[Pipeline] // stage
+[8mha:////4HD08T1fAP5m5Su1Qs7lDJRm+oT6CbwcjUo9r7v7jXeVAAAApx+LCAAAAAAAAP9tjT0OwjAUg1+LOrAycoiUnxF1Yo26cILQhJA0eq8kKenEibgadyBQiQkPlm3J+p4vqIKHhrxmVmFvMHSGDW7UObFEvr84SszSmXWEgZxirUotSXWca0tRwayihAWHpcLOUTCoI6y4FXdRO4G6PkWftwOH0sgbPKDgmRyFj98yeVhfRxkIf5y/AJiGCOV2n223+TyrNzgO5r/CAAAA[0m[Pipeline] stage
+[8mha:////4HOkJOEKVyTy9IfWeO1TJcjrMggyQNrIeHLpArWfWfkkAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUWBFT1ygLJwhNCGmj/8tPSjtxIq7GHWipxIQHy7ZkvdcbishwInaisdh6jLUXXejdlMRA3F4DDaKhi6gJIwUrlB0UGVstVVGysCjLYSVhbbEOFD26BBvZ6Icug0ZXnhNP21FC7s0dnpDJiZw0p28ZGba33kTCH+cvAMYuQX7Yzbafn8UHbGnGmsIAAAA=[0m[Pipeline] { (build)
+[8mha:////4FfPIZgLURzRENfqOCPzXmxpnP8a33f3PuuHOJsAfPEKAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIi0iIqWisNLzCJMXasO8d2cCpexNf4A4FIVGyx2tlmni9YxwBHDhqtot5QbA16N+p5YebQXx1ntHzBlimyU9io3HCnTgs2nBQsKUpYCdgoah1HQzrBVlh5l5WTpKtzCvN3EFCaboAHFGI2JxnSF6YAu9vYRaaf568AJp+grPefqv0bH7uiub4AAAA=[0m[Pipeline] sh
++ cd hello-world-war
+[8mha:////4GH6rDD+WItcKlfOGHMwvjpYBglNZsUi8BAd0Vl451KRAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIioERUaS03vMDExjix7oztkFS8iK/xBwKRqNhitbPNPF+wTBGOHC22hjpHqXEYfG+nhQPH7uJ5wJbP2DAl9galGSRrU88oORuYU5SwELAy1HhOjmyGtWjVXVVeka1OOU7fQUDp9A0eUIjJnFXMXxgjbK69Tkw/z18BjCFDudt+ah/eXoq5oL4AAAA=[0m[Pipeline] sh
++ mvn clean package
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--------------------< [0;36mcom.efsavage:hello-world-war[0;1m >--------------------[m
+[[1;34mINFO[m] [1mBuilding Hello World Web Application Repository 1.0.0[m
+[[1;34mINFO[m] [1m--------------------------------[ war ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-clean-plugin:2.5:clean[m [1m(default-clean)[m @ [36mhello-world-war[0;1m ---[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:resources[m [1m(default-resources)[m @ [36mhello-world-war[0;1m ---[m
+[[1;33mWARNING[m] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[[1;34mINFO[m] skip non existing resourceDirectory /opt/jenkins_slave/workspace/Test_SonarQube/src/main/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.1:compile[m [1m(default-compile)[m @ [36mhello-world-war[0;1m ---[m
+[[1;34mINFO[m] No sources to compile
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:testResources[m [1m(default-testResources)[m @ [36mhello-world-war[0;1m ---[m
+[[1;33mWARNING[m] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[[1;34mINFO[m] skip non existing resourceDirectory /opt/jenkins_slave/workspace/Test_SonarQube/src/test/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.1:testCompile[m [1m(default-testCompile)[m @ [36mhello-world-war[0;1m ---[m
+[[1;34mINFO[m] No sources to compile
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-surefire-plugin:2.12.4:test[m [1m(default-test)[m @ [36mhello-world-war[0;1m ---[m
+[[1;34mINFO[m] No tests to run.
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-war-plugin:3.4.0:war[m [1m(default-war)[m @ [36mhello-world-war[0;1m ---[m
+[[1;34mINFO[m] Packaging webapp
+[[1;34mINFO[m] Assembling webapp [hello-world-war] in [/opt/jenkins_slave/workspace/Test_SonarQube/target/hello-world-war-1.0.0]
+[[1;34mINFO[m] Processing war project
+[[1;34mINFO[m] Copying webapp resources [/opt/jenkins_slave/workspace/Test_SonarQube/src/main/webapp]
+[[1;34mINFO[m] Building war: /opt/jenkins_slave/workspace/Test_SonarQube/target/hello-world-war-1.0.0.war
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  2.927 s
+[[1;34mINFO[m] Finished at: 2025-01-05T07:50:25Z
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[8mha:////4BaR95LRjFYlkSNPxftOH1eU3l6mE1VPzc6QEWbE6TlBAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiEB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7BmecueC+AAAA[0m[Pipeline] }
+[8mha:////4Nc6GTji6wthz7vk9R06TA1D+Sct9ZRBGPf2drCCgSwfAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCkKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbN1R/4ly+AAAA[0m[Pipeline] // stage
+[8mha:////4BWaKIpy/X0sO/w/sGF9tOq1Mh14pqr+M64Qfj2AfzISAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUgMSCOrFGXThBaEJIGv1fkpR04kRcjTsQqMSEB8u2ZL3nC6rgoSGvmVXYGwydYYMbdU4ske8vjhKzdGYdYSCnWKtSS1Id59pSVDCrKGHBYamwcxQM6ggrbsVd1E6grk/R5+3AoTTyBg8oeCZH4eO3TB7W11EGwh/nLwCmIUK52WXb7j/P6g0l7b9pwgAAAA==[0m[Pipeline] stage
+[8mha:////4GWHgVsRJ9C2OwRnmoAsik1hysyxUMzAi5Q0qEyEq0kQAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUYoABMXWNsnCC0ISQNvq//KS0EyfiatyBlkpMeLBsS9Z7vaGIDCdiJxqLrcdYe9GF3k1JDMTtNdAgGrqImjBSsELZQZGx1VIVJQuLshxWEtYW60DRo0uwkY1+6DJodOU58bQdJeTe3OEJmZzISXP6lpFhe+tNJPxx/gJg7BLku/1sh/lZfAAyQCqkwgAAAA==[0m[Pipeline] { (Checkout)
+[8mha:////4Hc6qNc6G6h4b7IAosQzIg9if/oQWb/uQN+ZJRTmrdiGAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIi0YCEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDhnK7+9Q+vAGvZp0gvgAAAA==[0m[Pipeline] checkout
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+No credentials specified
+Fetching changes from the remote Git repository
+Checking out Revision c4f08f10aae5313f5f873c2e2d76b0f3abde9dd5 (refs/remotes/origin/master)
+Commit message: "Update pom.xml"
+[8mha:////4EiePC0yp4aGSRN02Ebsz9TBs3DEIPCY5dhA3Owvm+gTAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIi0SCEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQGMKkS1vgAAAA==[0m[Pipeline] }
+[8mha:////4A3LpnySUw+6lHCZXigrX49v0MS9gfX2y6I5JEzwCrdDAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCQKJBqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDut7l2hw9mQDtDvgAAAA==[0m[Pipeline] // stage
+[8mha:////4FOg2PRclSK95zh6ZPJIyCN2x/fOcsPLmFimWp+6x5GcAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycohUVUfExBp14QQhDSFp9H+bpLQTJ+Jq3IFAJSY8WLYl6z1fUMYARwqGO429xagsH/xkcuIzhf7qaeaOLlwRRvKat3puqdOntbaUNKwqGGwEbDUqT9GiSbATTt5l5SWa6pxC3g4CmO1GeEAhMjnJkL5lCbC/TV0k/HH+AmAZErC6ydbUn2f5BinWzdLCAAAA[0m[Pipeline] stage
+[8mha:////4Dkf9dHn51DERylPCdGouHaABwvxvAc5FaQbJtCuqgYlAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLDbrb9/Cw+2YMO4MIAAAA=[0m[Pipeline] { (Build)
+[8mha:////4IHgt7WXi+JDB9xxjB13YWWobEcSeTy8R5AdRM4DYWVyAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIikRJR0VppeIFJjLFj3Tm2g1PxIr7GHwhEomKL1c4283zBOgY4ctBoFfWGYmvQu1HPCzOH/uo4o+ULtkyRncJG5YY7dVqw4aRgSVHCSsBGUes4GtIJtsLKu6ycJF2dU5i/g4DSdAM8oBCzOcmQvjAF2N3GLjL9PH8FMPkEZb3/VO3favo5XL4AAAA=[0m[Pipeline] sh
++ mvn clean install
+ > git rev-parse --resolve-git-dir /opt/jenkins_slave/workspace/Test_SonarQube/.git # timeout=10
+ > git config remote.origin.url https://github.com/phaninandigam/hello-world-war.git # timeout=10
+Fetching upstream changes from https://github.com/phaninandigam/hello-world-war.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.43.0'
+ > git fetch --tags --force --progress -- https://github.com/phaninandigam/hello-world-war.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f c4f08f10aae5313f5f873c2e2d76b0f3abde9dd5 # timeout=10
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--------------------< [0;36mcom.efsavage:hello-world-war[0;1m >--------------------[m
+[[1;34mINFO[m] [1mBuilding Hello World Web Application Repository 1.0.0[m
+[[1;34mINFO[m] [1m--------------------------------[ war ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-clean-plugin:2.5:clean[m [1m(default-clean)[m @ [36mhello-world-war[0;1m ---[m
+[[1;34mINFO[m] Deleting /opt/jenkins_slave/workspace/Test_SonarQube/target
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:resources[m [1m(default-resources)[m @ [36mhello-world-war[0;1m ---[m
+[[1;33mWARNING[m] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[[1;34mINFO[m] skip non existing resourceDirectory /opt/jenkins_slave/workspace/Test_SonarQube/src/main/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.1:compile[m [1m(default-compile)[m @ [36mhello-world-war[0;1m ---[m
+[[1;34mINFO[m] No sources to compile
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:testResources[m [1m(default-testResources)[m @ [36mhello-world-war[0;1m ---[m
+[[1;33mWARNING[m] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[[1;34mINFO[m] skip non existing resourceDirectory /opt/jenkins_slave/workspace/Test_SonarQube/src/test/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.1:testCompile[m [1m(default-testCompile)[m @ [36mhello-world-war[0;1m ---[m
+[[1;34mINFO[m] No sources to compile
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-surefire-plugin:2.12.4:test[m [1m(default-test)[m @ [36mhello-world-war[0;1m ---[m
+[[1;34mINFO[m] No tests to run.
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-war-plugin:3.4.0:war[m [1m(default-war)[m @ [36mhello-world-war[0;1m ---[m
+[[1;34mINFO[m] Packaging webapp
+[[1;34mINFO[m] Assembling webapp [hello-world-war] in [/opt/jenkins_slave/workspace/Test_SonarQube/target/hello-world-war-1.0.0]
+[[1;34mINFO[m] Processing war project
+[[1;34mINFO[m] Copying webapp resources [/opt/jenkins_slave/workspace/Test_SonarQube/src/main/webapp]
+[[1;34mINFO[m] Building war: /opt/jenkins_slave/workspace/Test_SonarQube/target/hello-world-war-1.0.0.war
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-install-plugin:2.4:install[m [1m(default-install)[m @ [36mhello-world-war[0;1m ---[m
+[[1;34mINFO[m] Installing /opt/jenkins_slave/workspace/Test_SonarQube/target/hello-world-war-1.0.0.war to /root/.m2/repository/com/efsavage/hello-world-war/1.0.0/hello-world-war-1.0.0.war
+[[1;34mINFO[m] Installing /opt/jenkins_slave/workspace/Test_SonarQube/pom.xml to /root/.m2/repository/com/efsavage/hello-world-war/1.0.0/hello-world-war-1.0.0.pom
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  2.536 s
+[[1;34mINFO[m] Finished at: 2025-01-05T07:50:31Z
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[8mha:////4Nnz6qaKGUA6RoKa6LgJD6wY+US0iwBXmeytI4rOdmhUAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiAR2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7Bij33Ma+AAAA[0m[Pipeline] }
+[8mha:////4OADaKdY3XwJ5Kcg10OJLxfWs95J2bQ1fRxONQ43B99UAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbNzd1iZS+AAAA[0m[Pipeline] // stage
+[8mha:////4IcUOYXDaogsVM868P1r4ossOmBglyC57/D2FwJjxIaaAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUqBILYuoaZeEEIQkhbfR/SVLaiRNxNe5AoBITHizbkvWeL6higCMFyzqDvcOoHBv8aHNiE4X+4mliHZ2ZIozkDRNmEqRNu1RBycCiooQVh7VB5Sk6tAk2vJN3WXuJtj6lkLcDh9LpGzyg4JmcZEjfMgfYXkcdCX+cvwCYhwTlrsnW7D/P6g2R5sjPwgAAAA==[0m[Pipeline] stage
+[8mha:////4FHhAYsP621hH5LYqtMM2IbTBLfD0d34VARQLZR0/GsMAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0QIIBMXWNsnCC0ISQNvq//KS0EyfiatyBlkpMeLBsS9Z7vaGIDCdiJxqLrcdYe9GF3k1JDMTtNdAgGrqImjBSsELZQZGx1VIVJQuLshxWEtYW60DRo0uwkY1+6DJodOU58bQdJeTe3OEJmZzISXP6lpFhe+tNJPxx/gJg7BLku/1sh/lZfADpB/iZwgAAAA==[0m[Pipeline] { (SonarCloud Analysis)
+[8mha:////4P7fflcOUnJ2quT2rJgUVfmjKVZdGJzjLKLwxKTtejypAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0YAAJMXWNsnCC0ISQNvq//KS0EyfiatyBlkpMeLBsS9Z7vaGIDCdiJxqLrcdYe9GF3k1JDMTtNdAgGrqImjBSsELZQZGx1VIVJQuLshxWEtYW60DRo0uwkY1+6DJodOU58bQdJeTe3OEJmZzISXP6lpFhe+tNJPxx/gJg7BLku/1sh/lZfAD8aiCpwgAAAA==[0m[Pipeline] withSonarQubeEnv
+Injecting SonarQube environment variables using the configuration: SonarCloud
+[8mha:////4J6SmyccKW6WlypYGkgge9Fv0Ww6Gbp1/qIoV1Z1WMgbAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0YAEhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD59NhPHCAAAA[0m[Pipeline] {
+[8mha:////4JdHtZbj5OCi6SktvFzrC+tmreVNUH83NhPG5pFZP/vBAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCBA1CqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKYhQrk75Npvhw/W61xwvgAAAA==[0m[Pipeline] sh
++ mvn sonar:sonar -Dsonar.projectKey=phaninandigam_project1 -Dsonar.organization=phaninandigam -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=****
+[[1;34mINFO[m] Scanning for projects...
+Downloading from central: https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-maven-plugin/8.1.5.v20120716/jetty-maven-plugin-8.1.5.v20120716.pom
+Progress (1): 2.8/6.2 kBProgress (1): 5.5/6.2 kBProgress (1): 6.2 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-maven-plugin/8.1.5.v20120716/jetty-maven-plugin-8.1.5.v20120716.pom (6.2 kB at 12 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-integration-project/8.1.5.v20120716/jetty-integration-project-8.1.5.v20120716.pom
+Progress (1): 2.8/12 kBProgress (1): 5.5/12 kBProgress (1): 8.3/12 kBProgress (1): 11/12 kB Progress (1): 12 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-integration-project/8.1.5.v20120716/jetty-integration-project-8.1.5.v20120716.pom (12 kB at 350 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-parent/13/jetty-parent-13.pom
+Progress (1): 2.8/3.2 kBProgress (1): 3.2 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-parent/13/jetty-parent-13.pom (3.2 kB at 155 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-parent/19/jetty-parent-19.pom
+Progress (1): 2.8/20 kBProgress (1): 5.5/20 kBProgress (1): 8.3/20 kBProgress (1): 11/20 kB Progress (1): 14/20 kBProgress (1): 17/20 kBProgress (1): 19/20 kBProgress (1): 20 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-parent/19/jetty-parent-19.pom (20 kB at 850 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-maven-plugin/8.1.5.v20120716/jetty-maven-plugin-8.1.5.v20120716.jar
+Progress (1): 4.1/71 kBProgress (1): 8.2/71 kBProgress (1): 12/71 kB Progress (1): 16/71 kBProgress (1): 20/71 kBProgress (1): 25/71 kBProgress (1): 29/71 kBProgress (1): 33/71 kBProgress (1): 37/71 kBProgress (1): 41/71 kBProgress (1): 45/71 kBProgress (1): 49/71 kBProgress (1): 53/71 kBProgress (1): 57/71 kBProgress (1): 61/71 kBProgress (1): 66/71 kBProgress (1): 70/71 kBProgress (1): 71 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-maven-plugin/8.1.5.v20120716/jetty-maven-plugin-8.1.5.v20120716.jar (71 kB at 1.7 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/maven/sonar-maven-plugin/4.0.0.4121/sonar-maven-plugin-4.0.0.4121.pom
+Progress (1): 4.1/12 kBProgress (1): 8.2/12 kBProgress (1): 12 kB                       Downloaded from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/maven/sonar-maven-plugin/4.0.0.4121/sonar-maven-plugin-4.0.0.4121.pom (12 kB at 550 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonarsource/parent/parent/74.0.0.1768/parent-74.0.0.1768.pom
+Progress (1): 4.1/32 kBProgress (1): 8.2/32 kBProgress (1): 12/32 kB Progress (1): 16/32 kBProgress (1): 20/32 kBProgress (1): 25/32 kBProgress (1): 29/32 kBProgress (1): 32 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/sonarsource/parent/parent/74.0.0.1768/parent-74.0.0.1768.pom (32 kB at 1.0 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/maven/sonar-maven-plugin/4.0.0.4121/sonar-maven-plugin-4.0.0.4121.jar
+Progress (1): 4.1/63 kBProgress (1): 8.2/63 kBProgress (1): 12/63 kB Progress (1): 16/63 kBProgress (1): 20/63 kBProgress (1): 25/63 kBProgress (1): 29/63 kBProgress (1): 33/63 kBProgress (1): 37/63 kBProgress (1): 41/63 kBProgress (1): 45/63 kBProgress (1): 49/63 kBProgress (1): 53/63 kBProgress (1): 57/63 kBProgress (1): 61/63 kBProgress (1): 63 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/maven/sonar-maven-plugin/4.0.0.4121/sonar-maven-plugin-4.0.0.4121.jar (63 kB at 1.7 MB/s)
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--------------------< [0;36mcom.efsavage:hello-world-war[0;1m >--------------------[m
+[[1;34mINFO[m] [1mBuilding Hello World Web Application Repository 1.0.0[m
+[[1;34mINFO[m] [1m--------------------------------[ war ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32msonar-maven-plugin:4.0.0.4121:sonar[m [1m(default-cli)[m @ [36mhello-world-war[0;1m ---[m
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.4/plexus-sec-dispatcher-1.4.pom
+Progress (1): 3.0 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.4/plexus-sec-dispatcher-1.4.pom (3.0 kB at 212 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/api/sonar-scanner-api/2.16.3.1081/sonar-scanner-api-2.16.3.1081.pom
+Progress (1): 4.1/5.2 kBProgress (1): 5.2 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/api/sonar-scanner-api/2.16.3.1081/sonar-scanner-api-2.16.3.1081.pom (5.2 kB at 323 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/api/sonar-scanner-api-parent/2.16.3.1081/sonar-scanner-api-parent-2.16.3.1081.pom
+Progress (1): 4.1/4.8 kBProgress (1): 4.8 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/api/sonar-scanner-api-parent/2.16.3.1081/sonar-scanner-api-parent-2.16.3.1081.pom (4.8 kB at 323 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonarsource/parent/parent/60.0.52/parent-60.0.52.pom
+Progress (1): 4.1/32 kBProgress (1): 8.2/32 kBProgress (1): 12/32 kB Progress (1): 16/32 kBProgress (1): 20/32 kBProgress (1): 25/32 kBProgress (1): 29/32 kBProgress (1): 32 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/sonarsource/parent/parent/60.0.52/parent-60.0.52.pom (32 kB at 1.5 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.pom
+Progress (1): 4.1/17 kBProgress (1): 8.2/17 kBProgress (1): 12/17 kB Progress (1): 16/17 kBProgress (1): 17 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.pom (17 kB at 921 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/17/commons-parent-17.pom
+Progress (1): 4.1/31 kBProgress (1): 8.2/31 kBProgress (1): 12/31 kB Progress (1): 16/31 kBProgress (1): 20/31 kBProgress (1): 25/31 kBProgress (1): 29/31 kBProgress (1): 31 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/17/commons-parent-17.pom (31 kB at 1.9 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.4/plexus-sec-dispatcher-1.4.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.5/plexus-utils-1.5.5.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/api/sonar-scanner-api/2.16.3.1081/sonar-scanner-api-2.16.3.1081.jar
+Downloading from central: https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.jar
+Progress (1): 4.1/28 kBProgress (1): 8.2/28 kBProgress (1): 12/28 kB Progress (1): 16/28 kBProgress (1): 20/28 kBProgress (1): 24/28 kBProgress (1): 28 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.4/plexus-sec-dispatcher-1.4.jar (28 kB at 815 kB/s)
+Progress (1): 2.8/251 kBProgress (1): 5.5/251 kBProgress (1): 8.3/251 kBProgress (1): 11/251 kB Progress (1): 14/251 kBProgress (1): 17/251 kBProgress (1): 19/251 kBProgress (2): 19/251 kB | 2.8/284 kBProgress (2): 19/251 kB | 5.5/284 kBProgress (2): 19/251 kB | 8.3/284 kBProgress (3): 19/251 kB | 8.3/284 kB | 2.8/625 kBProgress (3): 19/251 kB | 11/284 kB | 2.8/625 kB Progress (3): 19/251 kB | 14/284 kB | 2.8/625 kBProgress (3): 19/251 kB | 18/284 kB | 2.8/625 kBProgress (3): 19/251 kB | 22/284 kB | 2.8/625 kBProgress (3): 19/251 kB | 26/284 kB | 2.8/625 kBProgress (3): 22/251 kB | 26/284 kB | 2.8/625 kBProgress (3): 25/251 kB | 26/284 kB | 2.8/625 kBProgress (3): 28/251 kB | 26/284 kB | 2.8/625 kBProgress (3): 28/251 kB | 26/284 kB | 5.5/625 kBProgress (3): 28/251 kB | 26/284 kB | 8.3/625 kBProgress (3): 28/251 kB | 26/284 kB | 11/625 kB Progress (3): 28/251 kB | 30/284 kB | 11/625 kBProgress (3): 28/251 kB | 34/284 kB | 11/625 kBProgress (3): 28/251 kB | 38/284 kB | 11/625 kBProgress (3): 28/251 kB | 42/284 kB | 11/625 kBProgress (3): 28/251 kB | 47/284 kB | 11/625 kBProgress (3): 28/251 kB | 47/284 kB | 14/625 kBProgress (3): 28/251 kB | 47/284 kB | 17/625 kBProgress (3): 28/251 kB | 47/284 kB | 19/625 kBProgress (3): 30/251 kB | 47/284 kB | 19/625 kBProgress (3): 33/251 kB | 47/284 kB | 19/625 kBProgress (3): 36/251 kB | 47/284 kB | 19/625 kBProgress (3): 39/251 kB | 47/284 kB | 19/625 kBProgress (3): 41/251 kB | 47/284 kB | 19/625 kBProgress (3): 44/251 kB | 47/284 kB | 19/625 kBProgress (3): 47/251 kB | 47/284 kB | 19/625 kBProgress (3): 47/251 kB | 47/284 kB | 22/625 kBProgress (3): 47/251 kB | 47/284 kB | 25/625 kBProgress (3): 47/251 kB | 47/284 kB | 28/625 kBProgress (3): 47/251 kB | 47/284 kB | 30/625 kBProgress (3): 47/251 kB | 47/284 kB | 33/625 kBProgress (3): 47/251 kB | 47/284 kB | 36/625 kBProgress (3): 47/251 kB | 51/284 kB | 36/625 kBProgress (3): 47/251 kB | 55/284 kB | 36/625 kBProgress (3): 47/251 kB | 59/284 kB | 36/625 kBProgress (3): 47/251 kB | 63/284 kB | 36/625 kBProgress (3): 50/251 kB | 63/284 kB | 36/625 kBProgress (3): 52/251 kB | 63/284 kB | 36/625 kBProgress (3): 55/251 kB | 63/284 kB | 36/625 kBProgress (3): 55/251 kB | 63/284 kB | 39/625 kBProgress (3): 55/251 kB | 63/284 kB | 41/625 kBProgress (3): 55/251 kB | 67/284 kB | 41/625 kBProgress (3): 55/251 kB | 71/284 kB | 41/625 kBProgress (3): 55/251 kB | 75/284 kB | 41/625 kBProgress (3): 55/251 kB | 78/284 kB | 41/625 kBProgress (3): 58/251 kB | 78/284 kB | 41/625 kBProgress (3): 61/251 kB | 78/284 kB | 41/625 kBProgress (3): 61/251 kB | 78/284 kB | 44/625 kBProgress (3): 61/251 kB | 78/284 kB | 47/625 kBProgress (3): 61/251 kB | 78/284 kB | 50/625 kBProgress (3): 61/251 kB | 78/284 kB | 52/625 kBProgress (3): 61/251 kB | 78/284 kB | 55/625 kBProgress (3): 63/251 kB | 78/284 kB | 55/625 kBProgress (3): 68/251 kB | 78/284 kB | 55/625 kBProgress (3): 72/251 kB | 78/284 kB | 55/625 kBProgress (3): 76/251 kB | 78/284 kB | 55/625 kBProgress (3): 76/251 kB | 82/284 kB | 55/625 kBProgress (3): 76/251 kB | 86/284 kB | 55/625 kBProgress (3): 76/251 kB | 90/284 kB | 55/625 kBProgress (3): 76/251 kB | 94/284 kB | 55/625 kBProgress (3): 80/251 kB | 94/284 kB | 55/625 kBProgress (3): 84/251 kB | 94/284 kB | 55/625 kBProgress (3): 88/251 kB | 94/284 kB | 55/625 kBProgress (3): 92/251 kB | 94/284 kB | 55/625 kBProgress (3): 96/251 kB | 94/284 kB | 55/625 kBProgress (3): 100/251 kB | 94/284 kB | 55/625 kBProgress (3): 104/251 kB | 94/284 kB | 55/625 kBProgress (3): 108/251 kB | 94/284 kB | 55/625 kBProgress (3): 113/251 kB | 94/284 kB | 55/625 kBProgress (3): 113/251 kB | 98/284 kB | 55/625 kBProgress (3): 113/251 kB | 102/284 kB | 55/625 kBProgress (3): 113/251 kB | 106/284 kB | 55/625 kBProgress (3): 113/251 kB | 110/284 kB | 55/625 kBProgress (3): 113/251 kB | 110/284 kB | 58/625 kBProgress (3): 113/251 kB | 110/284 kB | 61/625 kBProgress (3): 113/251 kB | 110/284 kB | 63/625 kBProgress (3): 113/251 kB | 114/284 kB | 63/625 kBProgress (3): 113/251 kB | 119/284 kB | 63/625 kBProgress (3): 113/251 kB | 123/284 kB | 63/625 kBProgress (3): 113/251 kB | 127/284 kB | 63/625 kBProgress (3): 113/251 kB | 127/284 kB | 67/625 kBProgress (3): 113/251 kB | 127/284 kB | 71/625 kBProgress (3): 113/251 kB | 127/284 kB | 75/625 kBProgress (3): 113/251 kB | 127/284 kB | 79/625 kBProgress (3): 117/251 kB | 127/284 kB | 79/625 kBProgress (3): 121/251 kB | 127/284 kB | 79/625 kBProgress (3): 125/251 kB | 127/284 kB | 79/625 kBProgress (3): 129/251 kB | 127/284 kB | 79/625 kBProgress (3): 129/251 kB | 131/284 kB | 79/625 kBProgress (3): 129/251 kB | 135/284 kB | 79/625 kBProgress (3): 129/251 kB | 139/284 kB | 79/625 kBProgress (3): 129/251 kB | 139/284 kB | 83/625 kBProgress (3): 129/251 kB | 139/284 kB | 87/625 kBProgress (3): 129/251 kB | 139/284 kB | 92/625 kBProgress (3): 129/251 kB | 139/284 kB | 96/625 kBProgress (3): 133/251 kB | 139/284 kB | 96/625 kBProgress (3): 137/251 kB | 139/284 kB | 96/625 kBProgress (3): 141/251 kB | 139/284 kB | 96/625 kBProgress (3): 145/251 kB | 139/284 kB | 96/625 kBProgress (3): 149/251 kB | 139/284 kB | 96/625 kBProgress (3): 154/251 kB | 139/284 kB | 96/625 kBProgress (3): 158/251 kB | 139/284 kB | 96/625 kBProgress (3): 162/251 kB | 139/284 kB | 96/625 kBProgress (3): 166/251 kB | 139/284 kB | 96/625 kBProgress (3): 170/251 kB | 139/284 kB | 96/625 kBProgress (3): 174/251 kB | 139/284 kB | 96/625 kBProgress (3): 178/251 kB | 139/284 kB | 96/625 kBProgress (3): 182/251 kB | 139/284 kB | 96/625 kBProgress (3): 186/251 kB | 139/284 kB | 96/625 kBProgress (3): 190/251 kB | 139/284 kB | 96/625 kBProgress (3): 195/251 kB | 139/284 kB | 96/625 kBProgress (3): 199/251 kB | 139/284 kB | 96/625 kBProgress (3): 199/251 kB | 139/284 kB | 100/625 kBProgress (3): 199/251 kB | 139/284 kB | 104/625 kBProgress (3): 199/251 kB | 139/284 kB | 108/625 kBProgress (3): 199/251 kB | 139/284 kB | 112/625 kBProgress (3): 199/251 kB | 139/284 kB | 116/625 kBProgress (3): 199/251 kB | 139/284 kB | 120/625 kBProgress (3): 199/251 kB | 139/284 kB | 124/625 kBProgress (3): 199/251 kB | 139/284 kB | 128/625 kBProgress (3): 199/251 kB | 143/284 kB | 128/625 kBProgress (3): 199/251 kB | 147/284 kB | 128/625 kBProgress (3): 199/251 kB | 151/284 kB | 128/625 kBProgress (3): 199/251 kB | 155/284 kB | 128/625 kBProgress (3): 199/251 kB | 160/284 kB | 128/625 kBProgress (3): 199/251 kB | 164/284 kB | 128/625 kBProgress (3): 199/251 kB | 168/284 kB | 128/625 kBProgress (3): 203/251 kB | 168/284 kB | 128/625 kBProgress (3): 207/251 kB | 168/284 kB | 128/625 kBProgress (3): 211/251 kB | 168/284 kB | 128/625 kBProgress (3): 215/251 kB | 168/284 kB | 128/625 kBProgress (3): 219/251 kB | 168/284 kB | 128/625 kBProgress (3): 223/251 kB | 168/284 kB | 128/625 kBProgress (3): 227/251 kB | 168/284 kB | 128/625 kBProgress (3): 231/251 kB | 168/284 kB | 128/625 kBProgress (3): 235/251 kB | 168/284 kB | 128/625 kBProgress (3): 235/251 kB | 172/284 kB | 128/625 kBProgress (3): 235/251 kB | 176/284 kB | 128/625 kBProgress (3): 235/251 kB | 180/284 kB | 128/625 kBProgress (3): 235/251 kB | 184/284 kB | 128/625 kBProgress (3): 235/251 kB | 188/284 kB | 128/625 kBProgress (3): 235/251 kB | 188/284 kB | 133/625 kBProgress (3): 235/251 kB | 188/284 kB | 137/625 kBProgress (3): 235/251 kB | 188/284 kB | 141/625 kBProgress (3): 235/251 kB | 188/284 kB | 145/625 kBProgress (3): 235/251 kB | 188/284 kB | 149/625 kBProgress (3): 235/251 kB | 188/284 kB | 153/625 kBProgress (3): 235/251 kB | 188/284 kB | 157/625 kBProgress (3): 235/251 kB | 188/284 kB | 161/625 kBProgress (3): 235/251 kB | 188/284 kB | 165/625 kBProgress (3): 240/251 kB | 188/284 kB | 165/625 kBProgress (3): 244/251 kB | 188/284 kB | 165/625 kBProgress (3): 248/251 kB | 188/284 kB | 165/625 kBProgress (3): 251 kB | 188/284 kB | 165/625 kB    Progress (3): 251 kB | 192/284 kB | 165/625 kBProgress (3): 251 kB | 196/284 kB | 165/625 kBProgress (3): 251 kB | 200/284 kB | 165/625 kBProgress (3): 251 kB | 205/284 kB | 165/625 kBProgress (3): 251 kB | 209/284 kB | 165/625 kBProgress (3): 251 kB | 213/284 kB | 165/625 kBProgress (3): 251 kB | 217/284 kB | 165/625 kBProgress (3): 251 kB | 221/284 kB | 165/625 kBProgress (3): 251 kB | 225/284 kB | 165/625 kBProgress (3): 251 kB | 229/284 kB | 165/625 kBProgress (3): 251 kB | 233/284 kB | 165/625 kBProgress (3): 251 kB | 237/284 kB | 165/625 kBProgress (3): 251 kB | 241/284 kB | 165/625 kBProgress (3): 251 kB | 241/284 kB | 169/625 kBProgress (3): 251 kB | 241/284 kB | 173/625 kBProgress (3): 251 kB | 241/284 kB | 178/625 kB                                              Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.5/plexus-utils-1.5.5.jar (251 kB at 1.7 MB/s)
+Progress (2): 241/284 kB | 182/625 kBProgress (2): 241/284 kB | 186/625 kBProgress (2): 241/284 kB | 190/625 kBProgress (2): 241/284 kB | 194/625 kBProgress (2): 241/284 kB | 198/625 kBProgress (2): 241/284 kB | 202/625 kBProgress (2): 246/284 kB | 202/625 kBProgress (2): 250/284 kB | 202/625 kBProgress (2): 254/284 kB | 202/625 kBProgress (2): 258/284 kB | 202/625 kBProgress (2): 262/284 kB | 202/625 kBProgress (2): 266/284 kB | 202/625 kBProgress (2): 270/284 kB | 202/625 kBProgress (2): 270/284 kB | 206/625 kBProgress (2): 270/284 kB | 210/625 kBProgress (2): 270/284 kB | 214/625 kBProgress (2): 270/284 kB | 219/625 kBProgress (2): 270/284 kB | 223/625 kBProgress (2): 270/284 kB | 227/625 kBProgress (2): 270/284 kB | 231/625 kBProgress (2): 274/284 kB | 231/625 kBProgress (2): 278/284 kB | 231/625 kBProgress (2): 282/284 kB | 231/625 kBProgress (2): 284 kB | 231/625 kB    Progress (2): 284 kB | 235/625 kBProgress (2): 284 kB | 239/625 kBProgress (2): 284 kB | 243/625 kBProgress (2): 284 kB | 247/625 kBProgress (2): 284 kB | 251/625 kBProgress (2): 284 kB | 255/625 kBProgress (2): 284 kB | 260/625 kBProgress (2): 284 kB | 264/625 kBProgress (2): 284 kB | 268/625 kBProgress (2): 284 kB | 272/625 kBProgress (2): 284 kB | 276/625 kB                                 Downloaded from central: https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.jar (284 kB at 1.7 MB/s)
+Progress (1): 280/625 kBProgress (1): 284/625 kBProgress (1): 288/625 kBProgress (1): 292/625 kBProgress (1): 296/625 kBProgress (1): 300/625 kBProgress (1): 305/625 kBProgress (1): 309/625 kBProgress (1): 313/625 kBProgress (1): 317/625 kBProgress (1): 321/625 kBProgress (1): 325/625 kBProgress (1): 329/625 kBProgress (1): 333/625 kBProgress (1): 337/625 kBProgress (1): 341/625 kBProgress (1): 346/625 kBProgress (1): 350/625 kBProgress (1): 354/625 kBProgress (1): 358/625 kBProgress (1): 362/625 kBProgress (1): 366/625 kBProgress (1): 370/625 kBProgress (1): 374/625 kBProgress (1): 378/625 kBProgress (1): 382/625 kBProgress (1): 386/625 kBProgress (1): 391/625 kBProgress (1): 395/625 kBProgress (1): 399/625 kBProgress (1): 403/625 kBProgress (1): 407/625 kBProgress (1): 411/625 kBProgress (1): 415/625 kBProgress (1): 419/625 kBProgress (1): 423/625 kBProgress (1): 427/625 kBProgress (1): 432/625 kBProgress (1): 436/625 kBProgress (1): 440/625 kBProgress (1): 444/625 kBProgress (1): 448/625 kBProgress (1): 452/625 kBProgress (1): 456/625 kBProgress (1): 460/625 kBProgress (1): 464/625 kBProgress (1): 468/625 kBProgress (1): 472/625 kBProgress (1): 477/625 kBProgress (1): 481/625 kBProgress (1): 485/625 kBProgress (1): 489/625 kBProgress (1): 493/625 kBProgress (1): 497/625 kBProgress (1): 501/625 kBProgress (1): 505/625 kBProgress (1): 509/625 kBProgress (1): 513/625 kBProgress (1): 518/625 kBProgress (1): 522/625 kBProgress (1): 526/625 kBProgress (1): 530/625 kBProgress (1): 534/625 kBProgress (1): 538/625 kBProgress (1): 542/625 kBProgress (1): 546/625 kBProgress (1): 550/625 kBProgress (1): 554/625 kBProgress (1): 559/625 kBProgress (1): 563/625 kBProgress (1): 567/625 kBProgress (1): 571/625 kBProgress (1): 575/625 kBProgress (1): 579/625 kBProgress (1): 583/625 kBProgress (1): 587/625 kBProgress (1): 591/625 kBProgress (1): 595/625 kBProgress (1): 599/625 kBProgress (1): 604/625 kBProgress (1): 608/625 kBProgress (1): 612/625 kBProgress (1): 616/625 kBProgress (1): 620/625 kBProgress (1): 624/625 kBProgress (1): 625 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/api/sonar-scanner-api/2.16.3.1081/sonar-scanner-api-2.16.3.1081.jar (625 kB at 2.8 MB/s)
+[[1;34mINFO[m] 07:50:35.756 Java 17.0.13 Ubuntu (64-bit)
+[[1;34mINFO[m] 07:50:35.756 Linux 6.8.0-1021-aws (amd64)
+[[1;34mINFO[m] 07:50:35.823 User cache: /root/.sonar/cache
+[[1;34mINFO[m] 07:50:38.569 Communicating with SonarCloud
+[[1;34mINFO[m] 07:50:38.655 Default locale: "en", source code encoding: "UTF-8" (analysis is platform dependent)
+[[1;34mINFO[m] 07:50:40.002 Load global settings
+[[1;34mINFO[m] 07:50:40.289 Load global settings (done) | time=288ms
+[[1;34mINFO[m] 07:50:40.296 Server id: 1BD809FA-AWHW8ct9-T_TB3XqouNu
+[[1;34mINFO[m] 07:50:40.596 Loading required plugins
+[[1;34mINFO[m] 07:50:40.599 Load plugins index
+[[1;34mINFO[m] 07:50:40.753 Load plugins index (done) | time=154ms
+[[1;34mINFO[m] 07:50:40.754 Load/download plugins
+[[1;34mINFO[m] 07:52:20.165 Load/download plugins (done) | time=99411ms
+[[1;34mINFO[m] 07:52:20.735 Found an active CI vendor: 'Jenkins'
+[[1;34mINFO[m] 07:52:20.752 Load project settings for component key: 'phaninandigam_project1'
+[[1;34mINFO[m] 07:52:21.142 Process project properties
+[[1;34mINFO[m] 07:52:21.157 Project key: phaninandigam_project1
+[[1;34mINFO[m] 07:52:21.158 Base dir: /opt/jenkins_slave/workspace/Test_SonarQube
+[[1;34mINFO[m] 07:52:21.158 Working dir: /opt/jenkins_slave/workspace/Test_SonarQube/target/sonar
+[[1;34mINFO[m] 07:52:21.163 Load project branches
+[[1;34mINFO[m] 07:52:21.303 Load project branches (done) | time=140ms
+[[1;34mINFO[m] 07:52:21.308 Check ALM binding of project 'phaninandigam_project1'
+[[1;34mINFO[m] 07:52:21.451 Detected project binding: NONEXISTENT
+[[1;34mINFO[m] 07:52:21.451 Check ALM binding of project 'phaninandigam_project1' (done) | time=143ms
+[[1;34mINFO[m] 07:52:21.453 Load project pull requests
+[[1;34mINFO[m] 07:52:21.593 Load project pull requests (done) | time=140ms
+[[1;34mINFO[m] 07:52:21.599 Load branch configuration
+[[1;34mINFO[m] 07:52:21.605 Load branch configuration (done) | time=6ms
+[[1;34mINFO[m] 07:52:21.617 Load quality profiles
+[[1;34mINFO[m] 07:52:22.255 Load quality profiles (done) | time=640ms
+[[1;34mINFO[m] 07:52:22.264 Load active rules
+[[1;34mINFO[m] 07:52:31.279 Load active rules (done) | time=9015ms
+[[1;34mINFO[m] 07:52:31.498 Organization key: phaninandigam
+[[1;33mWARNING[m] 07:52:31.502 The property 'sonar.login' is deprecated and will be removed in the future. Please use the 'sonar.token' property instead when passing a token.
+[[1;34mINFO[m] 07:52:31.545 Preprocessing files...
+[[1;34mINFO[m] 07:52:31.747 2 languages detected in 3 preprocessed files
+[[1;34mINFO[m] 07:52:31.748 0 files ignored because of inclusion/exclusion patterns
+[[1;34mINFO[m] 07:52:31.748 0 files ignored because of scm ignore settings
+[[1;34mINFO[m] 07:52:31.759 Loading plugins for detected languages
+[[1;34mINFO[m] 07:52:31.760 Load/download plugins
+[[1;34mINFO[m] 07:54:47.293 Load/download plugins (done) | time=135533ms
+[[1;34mINFO[m] 07:54:47.515 Load project repositories
+[[1;34mINFO[m] 07:54:47.654 Load project repositories (done) | time=139ms
+[[1;34mINFO[m] 07:54:47.657 Indexing files...
+[[1;34mINFO[m] 07:54:47.659 Project configuration:
+[[1;34mINFO[m] 07:54:47.661   Excluded sources: **/build-wrapper-dump.json
+[[1;34mINFO[m] 07:54:47.667 3 files indexed
+[[1;34mINFO[m] 07:54:47.676 Quality profile for jsp: Sonar way
+[[1;34mINFO[m] 07:54:47.676 Quality profile for xml: Sonar way
+[[1;34mINFO[m] 07:54:47.676 ------------- Run sensors on module Hello World Web Application Repository
+[[1;34mINFO[m] 07:54:47.775 Load metrics repository
+[[1;34mINFO[m] 07:54:48.177 Load metrics repository (done) | time=402ms
+[[1;34mINFO[m] 07:54:48.185 Sensor cache enabled
+[[1;34mINFO[m] 07:54:48.438 Load sensor cache
+[[1;34mINFO[m] 07:54:49.533 Load sensor cache (404) | time=1095ms
+[[1;34mINFO[m] 07:54:51.034 Sensor JavaSensor [java]
+[[1;34mINFO[m] 07:54:51.043 Configured Java source version (sonar.java.source): 5, preview features enabled (sonar.java.enablePreview): false
+Jan 05, 2025 7:54:51 AM org.apache.jasper.servlet.TldScanner scanJars
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[[1;34mINFO[m] 07:54:51.505 Server-side caching is enabled. The Java analyzer will not try to leverage data from a previous analysis.
+[[1;34mINFO[m] 07:54:51.507 No "Main" source files to scan.
+[[1;34mINFO[m] 07:54:51.512 No "Test" source files to scan.
+[[1;34mINFO[m] 07:54:51.515 Using ECJ batch to parse 1 Generated java source files with batch size 12 KB.
+[[1;34mINFO[m] 07:54:51.779 Starting batch processing.
+[[1;34mINFO[m] 07:54:53.112 100% analyzed
+[[1;34mINFO[m] 07:54:53.113 Batch processing: Done.
+[[1;34mINFO[m] 07:54:53.115 Did not optimize analysis for any files, performed a full analysis for all 1 files.
+[[1;34mINFO[m] 07:54:53.115 Sensor JavaSensor [java] (done) | time=2081ms
+[[1;34mINFO[m] 07:54:53.115 Sensor HTML [web]
+[[1;34mINFO[m] 07:54:53.300 Sensor HTML [web] (done) | time=185ms
+[[1;34mINFO[m] 07:54:53.302 Sensor XML Sensor [xml]
+[[1;34mINFO[m] 07:54:53.317 2 source files to be analyzed
+[[1;34mINFO[m] 07:54:53.583 2/2 source files have been analyzed
+[[1;34mINFO[m] 07:54:53.585 Sensor XML Sensor [xml] (done) | time=283ms
+[[1;34mINFO[m] 07:54:53.585 Sensor JaCoCo XML Report Importer [jacoco]
+[[1;34mINFO[m] 07:54:53.587 'sonar.coverage.jacoco.xmlReportPaths' is not defined. Using default locations: target/site/jacoco/jacoco.xml,target/site/jacoco-it/jacoco.xml,build/reports/jacoco/test/jacocoTestReport.xml
+[[1;34mINFO[m] 07:54:53.588 No report imported, no coverage information will be imported by JaCoCo XML Report Importer
+[[1;34mINFO[m] 07:54:53.588 Sensor JaCoCo XML Report Importer [jacoco] (done) | time=3ms
+[[1;34mINFO[m] 07:54:53.589 Sensor Java Config Sensor [iac]
+[[1;34mINFO[m] 07:54:53.624 0 source files to be analyzed
+[[1;34mINFO[m] 07:54:53.624 0/0 source files have been analyzed
+[[1;34mINFO[m] 07:54:53.624 Sensor Java Config Sensor [iac] (done) | time=35ms
+[[1;34mINFO[m] 07:54:53.624 Sensor IaC Docker Sensor [iac]
+[[1;34mINFO[m] 07:54:53.744 0 source files to be analyzed
+[[1;34mINFO[m] 07:54:53.745 0/0 source files have been analyzed
+[[1;34mINFO[m] 07:54:53.746 Sensor IaC Docker Sensor [iac] (done) | time=122ms
+[[1;34mINFO[m] 07:54:53.746 Sensor EnterpriseTextAndSecretsSensor [textenterprise]
+[[1;34mINFO[m] 07:54:53.747 Available processors: 1
+[[1;34mINFO[m] 07:54:53.747 Using 1 thread for analysis.
+[[1;34mINFO[m] 07:54:54.521 The property "sonar.tests" is not set. To improve the analysis accuracy, we categorize a file as a test file if any of the following is true:
+  * The filename starts with "test"
+  * The filename contains "test." or "tests."
+  * Any directory in the file path is named: "doc", "docs", "test" or "tests"
+  * Any directory in the file path has a name ending in "test" or "tests"
+
+[[1;34mINFO[m] 07:54:54.569 Using git CLI to retrieve untracked files
+[[1;34mINFO[m] 07:54:54.578 Analyzing language associated files and files included via "sonar.text.inclusions" that are tracked by git
+[[1;34mINFO[m] 07:54:54.598 3 source files to be analyzed
+[[1;34mINFO[m] 07:54:54.732 3/3 source files have been analyzed
+[[1;34mINFO[m] 07:54:54.732 Sensor EnterpriseTextAndSecretsSensor [textenterprise] (done) | time=986ms
+[[1;34mINFO[m] 07:54:54.742 ------------- Run sensors on project
+[[1;34mINFO[m] 07:54:55.092 Sensor Zero Coverage Sensor
+[[1;34mINFO[m] 07:54:55.092 Sensor Zero Coverage Sensor (done) | time=0ms
+[[1;34mINFO[m] 07:54:55.098 SCM Publisher SCM provider for this project is: git
+[[1;34mINFO[m] 07:54:55.101 SCM Publisher 3 source files to be analyzed
+[[1;34mINFO[m] 07:54:55.273 SCM Publisher 3/3 source files have been analyzed (done) | time=170ms
+[[1;34mINFO[m] 07:54:55.276 CPD Executor Calculating CPD for 1 file
+[[1;34mINFO[m] 07:54:55.292 CPD Executor CPD calculation finished (done) | time=11ms
+[[1;34mINFO[m] 07:54:55.648 Analysis report generated in 353ms, dir size=271 KB
+[[1;34mINFO[m] 07:54:55.683 Analysis report compressed in 34ms, zip size=56 KB
+[[1;34mINFO[m] 07:54:56.319 Analysis report uploaded in 636ms
+[[1;34mINFO[m] 07:54:56.322 ANALYSIS SUCCESSFUL, you can find the results at: https://sonarcloud.io/dashboard?id=phaninandigam_project1
+[[1;34mINFO[m] 07:54:56.322 Note that you will be able to access the updated dashboard once the server has processed the submitted analysis report
+[[1;34mINFO[m] 07:54:56.322 More about the report processing at https://sonarcloud.io/api/ce/task?id=AZQ1db0j-bRmtreHrRnq
+[[1;34mINFO[m] 07:54:56.331 Analysis total time: 2:35.903 s
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  04:22 min
+[[1;34mINFO[m] Finished at: 2025-01-05T07:54:56Z
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[8mha:////4Mt75wY0BVEiOrcG6j+ansocnGK9rzfKWp/r3HrB/XGJAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBA1CqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDut7l2hw+dgWTEvgAAAA==[0m[Pipeline] }
+[8mha:////4FlRpmNG83DlekYMWSxRBHkrip4XcKB7kHcCYihsd5IhAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiAQUSSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryv821O3wApcP3Nb4AAAA=[0m[Pipeline] // withSonarQubeEnv
+[8mha:////4EYnWShOA2PQ6e/tZBp3YmeqmlI9lo6ebcFR8WbUIE6nAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSBIkCUaW10vACExvjxLoztkNS8SK+xh+wiETFFqudbeb1hnUMcOJgsNc0WIqdRe9GkxdOHIar4wl7vmDHFNlpbPXUstLNgi0nDUuKElYCNpo6x9GSSbAVvXzIykky1TmF/B0FlFbd4QmFyOYkQ/rCHGB3G1Vk+nn+CmD2PkG5r3PVhw+RDRRuvgAAAA==[0m[Pipeline] }
+[8mha:////4GID162g/SmVOMBgSMUAcRSVUtj21mCYM9oz2vjv7IW6AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMIpiGgQVVorDS8w8WGcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThyM6JEGS7GzwrvR5CUmDsPV8SR6voiOKbJD0eLUssZmwZYTwpKihJWEDVLnOFoyCbayVw9VOUWmOqeQv6OE0uo7PKGQ2ZxUSF+YA+xuo45MP89fAczeJyjrOtf+8AG/DRYEvgAAAA==[0m[Pipeline] // stage
+[8mha:////4ATc05xFT1Z83bvw3eTIjzvFfet0x5IuF+me1JNgxagRAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUCJhQJ9aoCycITQhJo/9LkpJOnIircQcClZjwYNmWrPd8QRU8NOQ1swp7g6EzbHCjzokl8v3FUWKWzqwjDOQUa1VqSarjXFuKCmYVJSw4LBV2joJBHWHFrbiL2gnU9Sn6vB04lEbe4AEFz+QofPyWycP6OspA+OP8BcA0RCg322y7/edZvQGxqvuMwgAAAA==[0m[Pipeline] stage
+[8mha:////4JAar7Vdzf7uvi7BTrzsKNJTPu7LwxxKT76/CVDnYbCgAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0ARbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxAUxleXrCAAAA[0m[Pipeline] { (Quality Gate)
+[8mha:////4MvveBn8cMXB9gYQaupWeAC9aIYq4C9B6G2qUnF/mJFIAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0QTAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD+jQxyjCAAAA[0m[Pipeline] script
+[8mha:////4LBUq9117MZTpG4Ps8cUCM7v8QAyzYh8yZnUu3BZNm6IAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0QQIJMXWNsnCC0ISQNvq//KS0EyfiatyBlkpMeLBsS9Z7vaGIDCdiJxqLrcdYe9GF3k1JDMTtNdAgGrqImjBSsELZQZGx1VIVJQuLshxWEtYW60DRo0uwkY1+6DJodOU58bQdJeTe3OEJmZzISXP6lpFhe+tNJPxx/gJg7BLku/1sh/lZfAD9vR8YwgAAAA==[0m[Pipeline] {
+[8mha:////4PdA7Ga+SLVhuCBKkv3AO2/vHWO6Nb9Ek/7EfnG4BnUAAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOLSUIAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHNzJSLA2+AAAA[0m[Pipeline] waitForQualityGate
+Checking status of SonarQube task 'AZQ1db0j-bRmtreHrRnq' on server 'SonarCloud'
+SonarQube task 'AZQ1db0j-bRmtreHrRnq' status is 'IN_PROGRESS'
+Resuming build at Sun Jan 05 08:07:28 UTC 2025 after Jenkins restart
+Waiting for reconnection of slave1 before proceeding with build
+Checking status of SonarQube task 'AZQ1db0j-bRmtreHrRnq' on server 'SonarCloud'
+SonarQube task 'AZQ1db0j-bRmtreHrRnq' status is 'SUCCESS'
+SonarQube task 'AZQ1db0j-bRmtreHrRnq' completed. Quality gate is 'NONE'
+Ready to run at Sun Jan 05 08:07:30 UTC 2025
+[8mha:////4J5SVYwAFYFL3jD2KVR37KWSffd7/+4wBn+m706cjyD7AAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJCARISSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANEcrdIdd+O3wATIMs3b4AAAA=[0m[Pipeline] error
+[8mha:////4KUgBE9/7JkxhnEsEFyPdhDyyexT7Jwu50dd7B3UmLikAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiJJCQUCpayw0vMIkxTqy7YDs4FS/ia/wBi0hUbLHa2WZeb1gGDzV7g52m3lJoLA5uNHlhYt9fHSfs+IINU2CnUeokudWnGSVHDXOKEhYCVpoax8GSibAWnXqoyiky1Tn6/B0FlLa9wxMKkc1R+fiFycPmNraB6ef5K4BpGCKU+22u3eEDeCxVWr4AAAA=[0m[Pipeline] }
+[8mha:////4BrTZCl/nH8GuZ68frx+CrbfiqpDfUMpZDvoNG3ZtMJDAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiIRAFSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryv821O3wAR0N+TL4AAAA=[0m[Pipeline] // script
+[8mha:////4LkAw8Qd0KuY4u4gYB451gYDXQK8loMZYTeSPUdF0ZluAAAApR+LCAAAAAAAAP9tjTsOwjAQRDdBFLSUHGJT8GlQKlrLDScwiTFOrN1gOzgVJ+Jq3AGLSFRMMZo3zXu9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDut7l2hw90oCXwvgAAAA==[0m[Pipeline] }
+[8mha:////4DBuH+WeAp9Yx1SZp57WUZF6EsqvYf/ChXCgbcH5P9otAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMJpkgpR0VppeIGJjXFi3Tn2haTiRXyNP2ARiYotVjvbzOsN2xThRNGK3uDgMHVOBD/ZvMRMcbh5mkVPV9ERJvJGtGZuSZvzii2xgTVFCRsJO4Odp+TQMuxlrx6q8gptdeGYv6OE0ukRnlDIbGYV+QtLhMN90onw5/krgCUEhrKpc9XNB3bBKXS+AAAA[0m[Pipeline] // stage
+[8mha:////4JU/PZMtxcV69znUkYZxn+9OwG9JTg6I0jfdIIPilAs3AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihFIhqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJyjrOtf+8AGjQ2ErvgAAAA==[0m[Pipeline] }
+[8mha:////4NpvTobFIwDRvSA6yjBC3RQU/IpVHb94YIJLnx46YfxLAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIikKBBqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDuD7m2uw+bAfLavgAAAA==[0m[Pipeline] // withCredentials
+[8mha:////4IipGiMu/gYxv5w8ekfie8qWY91Bg3nnR01g/Vivkpc7AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKiFIgCUaW10vACExvjxLoztkNS8SK+xh+wiETFFqudbeb1hnUMcOJgsNc0WIqdRe9GkxdOHIar4wl7vmDHFNlpbPXUstLNgi0nDUuKElYCNpo6x9GSSbAVvXzIykky1TmF/B0FlFbd4QmFyOYkQ/rCHGB3G1Vk+nn+CmD2PkG5P+Sq6w+Eg6eIvgAAAA==[0m[Pipeline] }
+[8mha:////4Ld9Al3GP5U9NmPnzAnBzv6GlwE3KVGnKVRTAiOSjvbXAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICBRISSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryf8i1234AxwH2Dr4AAAA=[0m[Pipeline] // withEnv
+[8mha:////4ML1ytRS5VMJO9CXO3iaOqDq5Py2XSQBWxDhp6nSm5BYAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMJpoECIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLcXZNsP4gvERL0AAAA=[0m[Pipeline] }
+[8mha:////4L8+R+70EHjL1LgUJDHsAbIKlpTZf0SFZkkKjZB6L1FwAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMJBQqJBVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5PutINt9AJ6OJFG9AAAA[0m[Pipeline] // node
+[8mha:////4LkYyt5YQWLy7ACEQxI1XKjbcng2inndQd4rmAtGyuvdAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRFDSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfL8VZLsPuJdDG70AAAA=[0m[Pipeline] End of Pipeline
+ERROR: Pipeline aborted due to quality gate failure: NONE
+Finished: FAILURE
