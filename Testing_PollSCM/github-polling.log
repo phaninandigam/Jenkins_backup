@@ -1,0 +1,23 @@
+Started on Jan 6, 2025, 1:06:40 PM
+Started by event from 140.82.115.160 ⇒ http://3.110.49.66:8080/github-webhook/ on Mon Jan 06 13:06:40 UTC 2025
+Using strategy: SpecificRevisionBuildChooser
+[poll] Last Built Revision: Revision 0a035cd82e1b66318d40608d4d37722ef6a41d53 (main)
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.43.0'
+ > git ls-remote -h -- https://github.com/phaninandigam/jenkins-shared-libraries-.git # timeout=10
+Found 1 remote heads on https://github.com/phaninandigam/jenkins-shared-libraries-.git
+[poll] Latest remote head revision on refs/heads/main is: 0a035cd82e1b66318d40608d4d37722ef6a41d53 - already built by 1
+Using strategy: Default
+[poll] Last Built Revision: Revision 8cd9bbcf07ead1a98a959a5dcfc14fe2bef81f2e (refs/remotes/origin/feature-1)
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.43.0'
+ > git ls-remote -h -- https://github.com/phaninandigam/petclinic.git # timeout=10
+Found 3 remote heads on https://github.com/phaninandigam/petclinic.git
+[poll] Latest remote head revision on refs/heads/feature-1 is: bc68b3925543ad283330d4c6e5ba18947564bd6b
+Done. Took 1.2 sec
+Changes found
