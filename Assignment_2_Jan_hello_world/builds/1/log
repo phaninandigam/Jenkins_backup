@@ -1,0 +1,5 @@
+Started by user [8mha:////4HtlrQhV/jP9POT29lTJSVm4FNlvIbZiX/9XmIsvIRETAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9gozEvMy8xLyUzPTEXAA9FNJEyAAAAA==[0mPhani Nandigam
+Lightweight checkout support not available, falling back to full checkout.
+Checking out hudson.scm.NullSCM into /var/lib/jenkins/workspace/Assignment_2_Jan_hello_world@script/b360f0029b3778c00ece23bdc90799d773ee28c888b814574de8d55143ec9fde to read Jenkinsfile
+ERROR: /var/lib/jenkins/workspace/Assignment_2_Jan_hello_world@script/b360f0029b3778c00ece23bdc90799d773ee28c888b814574de8d55143ec9fde/Jenkinsfile not found
+Finished: FAILURE
